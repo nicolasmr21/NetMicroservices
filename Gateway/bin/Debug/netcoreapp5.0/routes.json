@@ -1,0 +1,21 @@
+﻿{
+  "routes": [
+    {
+      "endpoint": "/movies",
+      "destination": {
+        "path": "https://localhost:44335/api/product/",
+        "requiresAuthentication": "true"
+      }
+    },
+    {
+      "endpoint": "/songs",
+      "destination": {
+        "path": "https://localhost:44376/api/customer/",
+        "requiresAuthentication": "false"
+      }
+    }
+  ],
+  "authenticationService": {
+    "path": "http://localhost:8080/api/auth/"
+  }
+}

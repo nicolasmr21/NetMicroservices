@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/zWgfKHhQyeogSzLi01tC4PR0tNut7zX+cXiYTXDu+ETs9Brru9orzaPH2ZmhiaEV/YYmoCstcoFPP8qlvQq7A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\nmartinez\\Documents\\workspace\\WebApi\\Gateway\\Gateway.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\nmartinez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
